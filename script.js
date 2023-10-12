@@ -103,20 +103,16 @@ next.addEventListener("click", function () {
 });
 
 
-const clearbtn = document.getElementById("clear");
+const clearbtn = document.getElementById("clear"); //resetting all value
 clearbtn.addEventListener("click", function () {
-    // Clear category filter
     select.value = "all";
 
-    // Clear "Search For" buttons
     button.forEach(button => {
         button.classList.remove("active");
     });
 
-    // Reset price range filter
     price.value = 999;
     pdisplay.textContent = "$999";
 
-    // Call the display function to update the product display with cleared filters
     display();
 });

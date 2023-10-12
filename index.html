@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Carousel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Product Carousel</h1>
+
+        <div class="filters">
+
+            <!-- category -->
+            <div class="filter" id="categ">
+                <label for="category">Category:</label>
+                <select id="category" class="dropdown">
+                    <option value="all" class="dropcontent">All</option>
+                    <option value="trending" class="dropcontent">Trending</option>
+                    <option value="lifestyle" class="dropcontent">Lifestyle</option>
+                    <option value="home" class="dropcontent">Home Decor</option>
+                    <option value="electronics" class="dropcontent">Electronics</option>
+                    <option value="appliances" class="dropcontent">Appliances</option>
+                </select>
+            </div>
+
+            <!-- search for -->
+            <div class="filter" id="search">
+                <label>Search For:</label>
+                <button class="search-btn" data-filter="men">Men</button>
+                <button class="search-btn" data-filter="women">Women</button>
+                <button class="search-btn" data-filter="kids">Kids</button>
+                <button class="search-btn" data-filter="elderly">Elderly</button>
+                <button class="search-btn" data-filter="friends">Friends</button>
+            </div>
+
+            <!-- filter -->
+            <div class="filter" id="price">
+                <label for="price-range">Price Range:</label>
+                <input type="range" id="price-range" min="10" max="999" step="5" value="999" class="slider">
+                <span id="price-display">$999</span>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- product display -->
+    <div class="carousel">
+        <button id="prev-button" class="prev">Previous</button>
+        <button id="next-button"  class="next">Next</button>
+        <div id="product-container" class="product-container"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

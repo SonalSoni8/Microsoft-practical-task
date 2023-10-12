@@ -28,11 +28,13 @@
             <!-- search for -->
             <div class="filter" id="search">
                 <label>Search For:</label>
+                <div>
                 <button class="search-btn" data-filter="men">Men</button>
                 <button class="search-btn" data-filter="women">Women</button>
                 <button class="search-btn" data-filter="kids">Kids</button>
                 <button class="search-btn" data-filter="elderly">Elderly</button>
                 <button class="search-btn" data-filter="friends">Friends</button>
+            </div>
             </div>
 
             <!-- filter -->
@@ -41,13 +43,17 @@
                 <input type="range" id="price-range" min="10" max="999" step="5" value="999" class="slider">
                 <span id="price-display">$999</span>
             </div>
+            <button id="clear" class="clear">Clear Filters</button>
         </div>
+
+        <!-- Clear Filters button -->
+
     </header>
 
 
     <!-- product display -->
     <div class="carousel">
-        <button id="prev-button" class="prev">Previous</button>
+        <button id="prev-button" class="prev">Prev</button>
         <button id="next-button"  class="next">Next</button>
         <div id="product-container" class="product-container"></div>
     </div>

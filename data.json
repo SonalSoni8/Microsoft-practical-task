@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "product 1",
+        "name": "Product 1",
         "category": "trending",
         "price": 150,
         "description": "description for product 1",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "name": "product 2",
+        "name": "Product 2",
         "category": "lifestyle",
         "price": 75,
         "description": "description for product 2",
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "name": "product 3",
+        "name": "Product 3",
         "category": "home decor",
         "price": 35,
         "description": "description for product 3",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "name": "product 4",
+        "name": "Product 4",
         "category": "electronics",
         "price": 220,
         "description": "description for product 4",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "name": "product 5",
+        "name": "Product 5",
         "category": "appliances",
         "price": 95,
         "description": "description for product 5",
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "name": "product 6",
+        "name": "Product 6",
         "category": "lifestyle",
         "price": 120,
         "description": "description for product 6",
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "name": "product 7",
+        "name": "Product 7",
         "category": "home decor",
         "price": 45,
         "description": "description for product 7",
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "name": "product 8",
+        "name": "Product 8",
         "category": "electronics",
         "price": 180,
         "description": "description for product 8",
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "name": "product 9",
+        "name": "Product 9",
         "category": "appliances",
         "price": 110,
         "description": "description for product 9",
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "name": "product 10",
+        "name": "Product 10",
         "category": "gifts",
         "price": 60,
         "description": "description for product 10",
@@ -111,7 +111,7 @@
     },
     {
         "id": 11,
-        "name": "product 11",
+        "name": "Product 11",
         "category": "trending",
         "price": 370,
         "description": "description for product 11",
@@ -122,7 +122,7 @@
     },
     {
         "id": 12,
-        "name": "product 12",
+        "name": "Product 12",
         "category": "lifestyle",
         "price": 80,
         "description": "description for product 12",
@@ -133,7 +133,7 @@
     },
     {
         "id": 13,
-        "name": "product 13",
+        "name": "Product 13",
         "category": "home decor",
         "price": 240,
         "description": "description for product 13",
@@ -144,7 +144,7 @@
     },
     {
         "id": 14,
-        "name": "product 14",
+        "name": "Product 14",
         "category": "electronics",
         "price": 150,
         "description": "description for product 14",
@@ -155,7 +155,7 @@
     },
     {
         "id": 15,
-        "name": "product 15",
+        "name": "Product 15",
         "category": "appliances",
         "price": 320,
         "description": "description for product 15",
@@ -166,7 +166,7 @@
     },
     {
         "id": 16,
-        "name": "product 16",
+        "name": "Product 16",
         "category": "gifts",
         "price": 50,
         "description": "description for product 16",
@@ -177,7 +177,7 @@
     },
     {
         "id": 17,
-        "name": "product 17",
+        "name": "Product 17",
         "category": "trending",
         "price": 90,
         "description": "description for product 17",
@@ -188,7 +188,7 @@
     },
     {
         "id": 18,
-        "name": "product 18",
+        "name": "Product 18",
         "category": "lifestyle",
         "price": 170,
         "description": "description for product 18",
@@ -199,7 +199,7 @@
     },
     {
         "id": 19,
-        "name": "product 19",
+        "name": "Product 19",
         "category": "home decor",
         "price": 280,
         "description": "description for product 19",
@@ -210,7 +210,7 @@
     },
     {
         "id": 20,
-        "name": "product 20",
+        "name": "Product 20",
         "category": "electronics",
         "price": 110,
         "description": "description for product 20",
@@ -221,7 +221,7 @@
     },
     {
         "id": 21,
-        "name": "product 21",
+        "name": "Product 21",
         "category": "appliances",
         "price": 420,
         "description": "description for product 21",
@@ -232,7 +232,7 @@
     },
     {
         "id": 22,
-        "name": "product 22",
+        "name": "Product 22",
         "category": "gifts",
         "price": 60,
         "description": "description for product 22",
@@ -243,7 +243,7 @@
     },
     {
         "id": 23,
-        "name": "product 23",
+        "name": "Product 23",
         "category": "trending",
         "price": 85,
         "description": "description for product 23",
@@ -254,7 +254,7 @@
     },
     {
         "id": 24,
-        "name": "product 24",
+        "name": "Product 24",
         "category": "lifestyle",
         "price": 130,
         "description": "description for product 24",
@@ -265,7 +265,7 @@
     },
     {
         "id": 25,
-        "name": "product 25",
+        "name": "Product 25",
         "category": "home decor",
         "price": 310,
         "description": "description for product 25",
@@ -276,7 +276,7 @@
     },
     {
         "id": 26,
-        "name": "product 26",
+        "name": "Product 26",
         "category": "electronics",
         "price": 125,
         "description": "description for product 26",
@@ -287,7 +287,7 @@
     },
     {
         "id": 27,
-        "name": "product 27",
+        "name": "Product 27",
         "category": "appliances",
         "price": 400,
         "description": "description for product 27",
@@ -298,7 +298,7 @@
     },
     {
         "id": 28,
-        "name": "product 28",
+        "name": "Product 28",
         "category": "gifts",
         "price": 65,
         "description": "description for product 28",
@@ -309,7 +309,7 @@
     },
     {
         "id": 29,
-        "name": "product 29",
+        "name": "Product 29",
         "category": "trending",
         "price": 99,
         "description": "description for product 29",
@@ -320,7 +320,7 @@
     },
     {
         "id": 30,
-        "name": "product 30",
+        "name": "Product 30",
         "category": "lifestyle",
         "price": 105,
         "description": "description for product 30",
@@ -331,7 +331,7 @@
     },
     {
         "id": 31,
-        "name": "product 31",
+        "name": "Product 31",
         "category": "home decor",
         "price": 280,
         "description": "description for product 31",
@@ -342,7 +342,7 @@
     },
     {
         "id": 32,
-        "name": "product 32",
+        "name": "Product 32",
         "category": "electronics",
         "price": 145,
         "description": "description for product 32",
@@ -353,7 +353,7 @@
     },
     {
         "id": 33,
-        "name": "product 33",
+        "name": "Product 33",
         "category": "appliances",
         "price": 410,
         "description": "description for product 33",
@@ -364,7 +364,7 @@
     },
     {
         "id": 34,
-        "name": "product 34",
+        "name": "Product 34",
         "category": "gifts",
         "price": 70,
         "description": "description for product 34",
@@ -375,7 +375,7 @@
     },
     {
         "id": 35,
-        "name": "product 35",
+        "name": "Product 35",
         "category": "trending",
         "price": 88,
         "description": "description for product 35",
@@ -386,7 +386,7 @@
     },
     {
         "id": 36,
-        "name": "product 36",
+        "name": "Product 36",
         "category": "lifestyle",
         "price": 110,
         "description": "description for product 36",
@@ -397,7 +397,7 @@
     },
     {
         "id": 37,
-        "name": "product 37",
+        "name": "Product 37",
         "category": "home decor",
         "price": 205,
         "description": "description for product 37",
@@ -408,7 +408,7 @@
     },
     {
         "id": 38,
-        "name": "product 38",
+        "name": "Product 38",
         "category": "electronics",
         "price": 135,
         "description": "description for product 38",
@@ -419,7 +419,7 @@
     },
     {
         "id": 39,
-        "name": "product 39",
+        "name": "Product 39",
         "category": "appliances",
         "price": 420,
         "description": "description for product 39",
@@ -430,7 +430,7 @@
     },
     {
         "id": 40,
-        "name": "product 40",
+        "name": "Product 40",
         "category": "gifts",
         "price": 65,
         "description": "description for product 40",
@@ -441,7 +441,7 @@
     },
     {
         "id": 41,
-        "name": "product 41",
+        "name": "Product 41",
         "category": "trending",
         "price": 99,
         "description": "description for product 41",
@@ -452,7 +452,7 @@
     },
     {
         "id": 42,
-        "name": "product 42",
+        "name": "Product 42",
         "category": "lifestyle",
         "price": 115,
         "description": "description for product 42",
@@ -463,7 +463,7 @@
     },
     {
         "id": 43,
-        "name": "product 43",
+        "name": "Product 43",
         "category": "home decor",
         "price": 250,
         "description": "description for product 43",
@@ -474,7 +474,7 @@
     },
     {
         "id": 44,
-        "name": "product 44",
+        "name": "Product 44",
         "category": "electronics",
         "price": 130,
         "description": "description for product 44",
@@ -485,7 +485,7 @@
     },
     {
         "id": 45,
-        "name": "product 45",
+        "name": "Product 45",
         "category": "appliances",
         "price": 430,
         "description": "description for product 45",
@@ -496,7 +496,7 @@
     },
     {
         "id": 46,
-        "name": "product 46",
+        "name": "Product 46",
         "category": "gifts",
         "price": 60,
         "description": "description for product 46",
@@ -507,7 +507,7 @@
     },
     {
         "id": 47,
-        "name": "product 47",
+        "name": "Product 47",
         "category": "trending",
         "price": 89,
         "description": "description for product 47",
@@ -518,7 +518,7 @@
     },
     {
         "id": 48,
-        "name": "product 48",
+        "name": "Product 48",
         "category": "lifestyle",
         "price": 75,
         "description": "description for product 48",
@@ -529,7 +529,7 @@
     },
     {
         "id": 49,
-        "name": "product 49",
+        "name": "Product 49",
         "category": "home décor",
         "price": 210,
         "description": "description for product 49",
@@ -540,7 +540,7 @@
     },
     {
         "id": 50,
-        "name": "product 50",
+        "name": "Product 50",
         "category": "electronics",
         "price": 125,
         "description": "description for product 50",
@@ -551,7 +551,7 @@
     },
     {
         "id": 51,
-        "name": "product 51",
+        "name": "Product 51",
         "category": "appliances",
         "price": 410,
         "description": "description for product 51",
@@ -562,7 +562,7 @@
     },
     {
         "id": 52,
-        "name": "product 52",
+        "name": "Product 52",
         "category": "gifts",
         "price": 59,
         "description": "description for product 52",
@@ -573,7 +573,7 @@
     },
     {
         "id": 53,
-        "name": "product 53",
+        "name": "Product 53",
         "category": "trending",
         "price": 88,
         "description": "description for product 53",
@@ -584,7 +584,7 @@
     },
     {
         "id": 54,
-        "name": "product 54",
+        "name": "Product 54",
         "category": "lifestyle",
         "price": 76,
         "description": "description for product 54",
@@ -595,7 +595,7 @@
     },
     {
         "id": 55,
-        "name": "product 55",
+        "name": "Product 55",
         "category": "home décor",
         "price": 220,
         "description": "description for product 55",
@@ -606,7 +606,7 @@
     },
     {
         "id": 56,
-        "name": "product 56",
+        "name": "Product 56",
         "category": "electronics",
         "price": 130,
         "description": "description for product 56",
@@ -617,7 +617,7 @@
     },
     {
         "id": 57,
-        "name": "product 57",
+        "name": "Product 57",
         "category": "appliances",
         "price": 420,
         "description": "description for product 57",
@@ -628,7 +628,7 @@
     },
     {
         "id": 58,
-        "name": "product 58",
+        "name": "Product 58",
         "category": "gifts",
         "price": 60,
         "description": "description for product 58",
@@ -639,7 +639,7 @@
     },
     {
         "id": 59,
-        "name": "product 59",
+        "name": "Product 59",
         "category": "trending",
         "price": 90,
         "description": "description for product 59",
@@ -650,7 +650,7 @@
     },
     {
         "id": 60,
-        "name": "product 60",
+        "name": "Product 60",
         "category": "lifestyle",
         "price": 78,
         "description": "description for product 60",
@@ -661,7 +661,7 @@
     },
     {
         "id": 61,
-        "name": "product 61",
+        "name": "Product 61",
         "category": "home décor",
         "price": 230,
         "description": "description for product 61",
@@ -672,7 +672,7 @@
     },
     {
         "id": 62,
-        "name": "product 62",
+        "name": "Product 62",
         "category": "electronics",
         "price": 135,
         "description": "description for product 62",
@@ -683,7 +683,7 @@
     },
     {
         "id": 63,
-        "name": "product 63",
+        "name": "Product 63",
         "category": "appliances",
         "price": 430,
         "description": "description for product 63",
@@ -694,7 +694,7 @@
     },
     {
         "id": 64,
-        "name": "product 64",
+        "name": "Product 64",
         "category": "gifts",
         "price": 65,
         "description": "description for product 64",
@@ -705,7 +705,7 @@
     },
     {
         "id": 65,
-        "name": "product 65",
+        "name": "Product 65",
         "category": "trending",
         "price": 95,
         "description": "description for product 65",
@@ -716,7 +716,7 @@
     },
     {
         "id": 66,
-        "name": "product 66",
+        "name": "Product 66",
         "category": "lifestyle",
         "price": 80,
         "description": "description for product 66",

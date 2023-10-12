@@ -18,6 +18,7 @@ header {
 	/* background-color: #333; */
 	color: black;
 	padding: 20px 300px;
+       
 }
 
 select{
@@ -29,14 +30,18 @@ select{
 }
 
 .filters {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
 	margin-top: 20px;
+    display: flex;
+	align-items: center;
+    justify-items: center;
+    gap: 10px;
 }
 
 .filter {
 	margin: 0 20px;
+    justify-items: center;
+    display: flex;
+	align-items: center;
 }
 
 #categ {
@@ -105,17 +110,21 @@ select{
 
 #price {
 	display: flex;
-	gap: 5px;
+	gap: 10px;
 	flex-direction: column;
 	align-items: start;
+    
 }
 .slider {
-	background-color: #fff;
 	border-radius: 50%;
 	border: 2px solid;
 }
 
-
+.range{
+    justify-items: center;
+    display: flex;
+	align-items: center;
+}
 .carousel{
     position: relative;
   margin-left: 20px;
@@ -163,9 +172,10 @@ img {
 }
 
 
-#price-display {
+#pricedis {
 	margin-left: 10px;
 	font-weight: bold;
+    font-size: 15px;
 }
 
 .product:hover {
